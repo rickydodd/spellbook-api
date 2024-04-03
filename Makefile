@@ -11,6 +11,10 @@ tidy:
 	go fmt ./...
 	go mod tidy -v
 
+.PHONY: test
+test:
+	go test ./...
+
 # ========================= #
 # Development
 # ========================= #
