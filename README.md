@@ -7,6 +7,6 @@ The intent of this project is as an exercise. go version 1.21 introduced new sta
 
 ## Roadmap
 - [ ] Complete in-memory implementation.
-- [ ] Setup basic continuous integration.
+- [x] Setup basic continuous integration.
 - [ ] Selection and integration of an appropriate database solution.
 - [ ] Further the roadmap.
